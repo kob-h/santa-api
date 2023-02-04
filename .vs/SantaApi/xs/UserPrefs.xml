@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{277FB0D0-BE46-483B-AF07-251E8954708C}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SantaApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SantaApi/Program.cs">
+    <Files>
+      <File FileName="SantaApi/BusinessService/GiftsService.cs" />
+      <File FileName="SantaApi/DataContracts/NewGiftRequest.cs" />
+      <File FileName="SantaApi/DAL/ChildrenRepository.cs" />
+      <File FileName="SantaApi/DAL/ChildGiftOwndershipRepository.cs" />
+      <File FileName="SantaApi/DAL/IChildrenRepository.cs" />
+      <File FileName="SantaApi/DAL/IChildGiftOwndershipRepository.cs" />
+      <File FileName="SantaApi/DAL/GiftsRepository.cs" />
+      <File FileName="SantaApi/DAL/IGiftsRepository.cs" />
+      <File FileName="SantaApi/DataContracts/GiftListResponse.cs" />
+      <File FileName="SantaApi/Model/ChildGiftOwnership.cs" />
+      <File FileName="SantaApi/Persistence/SantaDb.cs" />
+      <File FileName="SantaApi/BusinessService/IGiftsService.cs" />
+      <File FileName="SantaApi/Program.cs" Line="37" Column="1" />
+      <File FileName="SantaApi/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SantaApi" expanded="True">
+            <Node name="SantaApi" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="BusinessService" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="DataContracts" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Persistence" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SantaTests FirstBuild="True" />
+</Properties>
